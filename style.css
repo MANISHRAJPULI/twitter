@@ -1,0 +1,64 @@
+.box {
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+    padding-left: 30% 30%;
+    margin-left: 30%;
+    width: 35%;
+    height: 475px;
+    padding: 50px 50px;
+    justify-content: center;
+}
+
+.box img {
+    position: relative;
+    content: ' ';
+    width: 50px;
+    height: 40px;
+    margin-top: 0;
+    margin-left: 180px;
+    padding-left: 20px;
+    top: 0;
+    left: -8;
+    color: blue;
+    justify-content: center;
+}
+
+.box button {
+    background-color: #1DA1F2;
+    color: #FFF;
+    border: white;
+    float: right;
+    font-size: 12px;
+    align-items: center;
+    width: 50px;
+    height: 20px;
+}
+
+.form {
+    width: 800px;
+    margin: auto;
+    font-size: 18px;
+}
+
+.use {
+    font-size: 15px;
+    color: #1B95B0;
+}
+
+.month {
+    width: 40px;
+    height: 40px;
+    margin: 16px 0px 0px;
+    padding: 12px 8px 8px;
+}
+
+select {
+    padding: 5px;
+    font-size: 15px;
+    background-color: white;
+}
+
+select #month {
+    width: 800px;
+}
